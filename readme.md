@@ -1,10 +1,3 @@
-<h3>Hello! I am a Computer Science Ph.D. Candidate at UC San Diego ( <a href="https://ubicomp.ucsd.edu">Weibel Lab</a>) / <a href="https://designlab.ucsd.edu">Design Lab</a>)
-</h3>
-Main main research focus is on improving remote and co-located surgical mentoring and training through eXtended Reality technology.
-
-In my research, I use *mixed methods* to better understand *user goals*, *co-design* with stakeholders, and *evaluate* and *explain* interventions.
-I also *develop* prototypes, tools, and systems. For example, tools to facilitate the rapid-prototyping of Augmented Reality applications.
-
-> **As of 2020, I am excited to share that my research is supported by an [Intuitive Surgical](https://intuitive.com) Ph.D. Research Fellowship.**
-
-You can find more about my projects on my personal website: [https://danilogasques.com](https://danilogasques.com). You can also reach out to me at: [gasques@ucsd.edu](gasques@ucsd.edu)
+<h3>Hello! I'm Danilo, a Research Engineer at <a href="https://www.medivis.com">Medivis</a>.+</h3>
+<h4>Medivis is a medical company focused on improving surgical care for patients through an intuitive augmented reality interface for surgical planning and navigation.</h4>
+<h4>My background combines healthcare, augmented reality, and human-centered design. I received my Ph.D. in Computer Science from the University of California San Diego, where I studied at the <a href="https://designlab.ucsd.edu">Design Lab</a> and <a href="https://hxi.ucsd.edu">HXI Lab</a>. My training at these cross-disciplinary labs focused on leveraging technology to improve healthcare experiences and outcomes.</h4>
