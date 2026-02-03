@@ -1,4 +1,15 @@
-<h3>Hello! I'm Danilo, a Research Engineer at <a href="https://www.medivis.com">Medivis</a>.</h3>
-Medivis is a medical company focused on improving surgical care for patients through an intuitive augmented reality interface for surgical planning and navigation.
+ <p class="subhead">
+          I'm a researcher-turned-founder exploring how AI can meaningfully augment human capability in the physical world.
+          While most AI is optimized for text, code, and screens, I'm focused on what becomes possible when AI can perceive
+          real environments, understand ongoing tasks, and guide people through complex physical work in real time.
+        </p>
+                  <p>
+            My work sits at the intersection of AR/VR, human-computer interaction, medical imaging, and multimodal AI.
+            I'm driven by the challenge of translating abstract intelligence into concrete action - building systems that
+            are trusted, intuitive, and effective under real-world constraints.
+          </p>
+          <p>
+            I'm currently a <strong>Founder Fellow</strong> at <strong>South Park Commons</strong>, exploring and developing ideas
+            around AI-powered systems for physical labor and skilled work.
+          </p>
 
-My background combines healthcare, augmented reality, and human-centered design. I received my Ph.D. in Computer Science from the University of California San Diego, where I studied at the <a href="https://designlab.ucsd.edu">Design Lab</a> and <a href="https://hxi.ucsd.edu">HXI Lab</a>. My training at these cross-disciplinary labs focused on leveraging technology to improve healthcare experiences and outcomes.
