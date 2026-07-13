@@ -9,7 +9,7 @@
             are trusted, intuitive, and effective under real-world constraints.
           </p>
           <p>
-            I'm currently a <del>Founder Fellow</del> <strong>Member</strong> at <strong>South Park Commons</strong>, exploring and developing ideas
+            I'm currently a Founder Fellow at <strong>South Park Commons</strong>, exploring and developing ideas
             around AI-powered systems for physical labor and skilled work.
           </p>
 
