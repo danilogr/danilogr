@@ -8,8 +8,5 @@
             I'm driven by the challenge of translating abstract intelligence into concrete action - building systems that
             are trusted, intuitive, and effective under real-world constraints.
           </p>
-          <p>
-            I'm currently a Founder Fellow at <strong>South Park Commons</strong>, exploring and developing ideas
-            around AI-powered systems for physical labor and skilled work.
-          </p>
+
 
