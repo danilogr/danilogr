@@ -11,3 +11,5 @@
           real environments, understand ongoing tasks, and guide people through complex physical work in real time.
         </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilogr&animation=load&name=Danilo+Gasques+%28danilogr%29)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danilogr&animation=load)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danilogr&animation=load&timeZone=America%2FNew_York)
